@@ -1,3 +1,4 @@
 # CONTRIBUTING.md
 
 Notes and usage details for rev-skills.
+- fix a small wording issue
